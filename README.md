@@ -1,4 +1,4 @@
-# REACT with TYPE_SCRIPT, ES_LINT and JEST
+# A boilerplate for React with TYPESCRIPT, ESLINT and JEST
 
 A boilerplate repo to set up a project with TYPESCRIPT, ESLINT and JEST.
 
