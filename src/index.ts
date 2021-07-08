@@ -1,5 +1,5 @@
-export const sum = (a: number, b: number): number => {
-	const addition = a + b;
+export const SUM = (a: number, b: number): number => {
+  const ADDITION = a + b;
 
-  return addition;
+  return ADDITION;
 };
